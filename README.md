@@ -1,4 +1,4 @@
-<p align="center" >
+<div align="center" >
 <img src="https://i.imgur.com/SbhNaFr.png" />
-</p>
+</ div>
 <h1 align="center">NLW - Valoriza</h1>
