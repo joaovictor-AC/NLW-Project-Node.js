@@ -63,4 +63,10 @@ $ yarn dev
 Para possibilitar a observação de todas as tabelas fornecidas pela aplicação, é necessário instalar o **[BeeKeeper Studio](https://www.beekeeperstudio.io/)** como sendo o gerenciador de banco de dados.<br>
 Primeiramente, coloque o tipo da conexão como SQLite, em seguida, procure pelo arquivo **database.sqlite** no proejeto clonado e, depois, coloque-o no campo "Database File". Por fim, aperte o botão "Test" para verificar se a conexão ocorrerá com êxito e, após ,clique em "Connect"
 
-![Image Beekeeper](/assests/beekeeper.png)
+<div align="center">
+    <img src="./assests/beekeeper.png" alt="Image  BeeKeeper">
+</div>
+
+___
+
+Desenvolvido por João Victor AC
